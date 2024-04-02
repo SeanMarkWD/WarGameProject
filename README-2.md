@@ -14,7 +14,7 @@ Command-Line Interaction for Enhanced Engagement: "Epic War: The Card Game" is d
 
 Gameplay: At the start of each game, the deck is evenly divided between the two players. Players then take turns drawing the top card from their decks for a head-to-head comparison. The basic rules are simple: the higher card wins the round, and the winning player takes both cards, placing them at the bottom of their deck. In the event of a tie, where both players draw cards of equal rank, the game's unique Automatic War variation comes into play.
 
-Game Start: Players begin the game with a simple command-line input, Automatic War or Surrender. 
+War sequence initiated: Players begin the game with a simple command-line input, Automatic War or Surrender. 
 Strategic Decision-Making in Ties: In the classic game of War, ties are resolved by a straightforward mechanic leading to a "war" where additional one face down card is drawn, and one face up. "Epic War" enhances this experience by introducing a choice at the moment of a tie:
 Automatic War: By opting for Automatic War, players engage in the traditional tiebreaker mechanism of War, but with an exciting twist. The game now gives an option to proceed with Automatic war or Surrender.
 Surrender Option: Alternatively, players can choose to surrender during a tie, forfeiting the round but potentially saving their stronger cards for future battles. This option introduces a significant strategic element to the game, as players must weigh the risks and rewards of continuing the war versus surrendering.
